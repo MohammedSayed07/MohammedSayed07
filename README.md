@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Blog](https://github.com/MohammedSayed07/blog)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Vue.js**
 
 - 📫 How to reach me **mohammed.s.hegazi@gmai.com**
 
